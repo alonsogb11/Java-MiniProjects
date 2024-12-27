@@ -37,7 +37,7 @@ A collection of small **Java** programs that demonstrate various algorithms, too
 If you want to know anything related to any of this programs, contact me at alonsogb11604@gmail.com.
 
 ## _License_ 📄
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the _**MIT License**_.  
 You are free to use, modify, and distribute this code as long as you include the original license in your project.
 
 For more details, see the [LICENSE](LICENSE) file.
