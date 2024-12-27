@@ -1,12 +1,12 @@
-## Description ✏️
-A collection of small **Java** programs that demonstrate various algorithms, tools, and functionalities. This repository serves as a personal project for testing and showcasing different Java programming techniques, various coding concepts and libraries.
+## _Description_ ✏️
+A collection of small **Java** programs that demonstrate various algorithms, tools, and functionalities. This repository serves as a personal project for testing and showcasing different Java **programming techniques, various coding concepts and libraries**.
 
-## Author 💡
+## _Author_ 💡
 **Alonso Genao:**
 
 * [LinkedIn](https://www.linkedin.com/in/alonsogb11/)
 
-## Installation 📦
+## _Installation_ 📦
 1. **Install Java Development Kit (JDK):**
 
    Download and install the latest version of the [JDK](https://www.oracle.com/java/technologies/javase-downloads.html). Verify the installation by running:
@@ -33,10 +33,10 @@ A collection of small **Java** programs that demonstrate various algorithms, too
    
 4. **Compile and run the program of your choice.**
 
-## Info ℹ️
+## _Info_ ℹ️
 If you want to know anything related to any of this programs, contact me at alonsogb11604@gmail.com.
 
-## License 📄
+## _License_ 📄
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute this code as long as you include the original license in your project.
 
